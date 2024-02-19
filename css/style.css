@@ -254,7 +254,7 @@ button {
 .loader_bg {
      position: fixed;
      z-index: 9999999;
-     background: #3383c3;
+     background: #f4e7cc;
      width: 100%;
      height: 100%;
      left: 0;
@@ -404,7 +404,7 @@ button {
 }
 
 .read_more:hover {
-     background: #3383c3;
+     background: #f4e7cc;
      color: #fff;
      transition: ease-in all 0.5s;
 }
@@ -568,7 +568,7 @@ button {
 }
 
 .testimonial_Carousel {
-     background: #3383c3;
+     background: #f4e7cc;
      padding: 100px 45px;
 }
 
@@ -677,7 +677,7 @@ button {
 .copyright {
      margin-top: 80px;
      padding: 20px 0px;
-     background-color: #3383c3;
+     background-color: #f4e7cc;
 }
 
 .copyright p {
